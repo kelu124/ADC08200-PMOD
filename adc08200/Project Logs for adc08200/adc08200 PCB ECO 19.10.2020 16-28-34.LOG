@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=D1 Old Footprint=SOD123 New Footprint=SOD323
+Change Component Comment : Designator=D1 Old Comment=DiodeShottky_SOD123 New Comment=DiodeShottky_SOD323
+Added Component: Designator=L1(SM_0805_INDUCTANCE _3D)
+Added Component: Designator=L3(SM_0805_INDUCTANCE _3D)
+Added Pin To Net: NetName=NetC8_1 Pin=L1-1
+Added Pin To Net: NetName=+3V Pin=L1-2
+Added Pin To Net: NetName=+5V Pin=L3-1
+Added Pin To Net: NetName=NetC17_2 Pin=L3-2
+Added Member To Class: ClassName=adc08200 Member=Component L1 75R@100MHz
+Added Member To Class: ClassName=adc08200 Member=Component L3 75R@100MHz

@@ -1,0 +1,35 @@
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of Project [adc08200.PrjPcb]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[adc08200.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 18:32:52 On 21.10.2020

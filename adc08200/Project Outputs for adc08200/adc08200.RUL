@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\my_work\Luc\adc08200\adc08200\adc08200.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
